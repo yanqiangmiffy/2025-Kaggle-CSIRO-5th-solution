@@ -27,11 +27,11 @@
   - Dead = Total - GDM
   - Clover = GDM - Green
 
-![02_metric_lines.png](resources/02_metric_lines.png)
 
 ### 2.3 评估指标
 
 比赛使用加权R²分数作为评估指标，对五个目标的R²进行加权平均。
+![02_metric_lines.png](resources/02_metric_lines.png)
 
 ## 3. 核心上分点
 

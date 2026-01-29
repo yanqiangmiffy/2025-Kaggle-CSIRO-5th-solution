@@ -27,11 +27,11 @@ The goal of this competition is to use pasture images to predict five key biomas
   - Dead = Total - GDM
   - Clover = GDM - Green
 
-![02_metric_lines.png](resources/02_metric_lines.png)
 
 ### 2.3 Evaluation Metric
 
 The competition uses weighted R² score as the evaluation metric, with weighted average of R² across five targets.
+![02_metric_lines.png](resources/02_metric_lines.png)
 
 ## 3. Core Improvement Techniques
 
